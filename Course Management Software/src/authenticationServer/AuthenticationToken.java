@@ -1,5 +1,6 @@
 package authenticationServer;
 
+import java.io.IOException;
 import java.util.Date;
 
 public class AuthenticationToken {
@@ -16,7 +17,7 @@ public class AuthenticationToken {
 	}
 
 	public String getUserType() {
-		return userType;
+		return this.userType;
 	}
 	public void setUserType(String userType) {
 		this.userType = userType;

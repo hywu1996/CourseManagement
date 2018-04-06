@@ -1,8 +1,8 @@
 You are logged in as an Administrator. 
 You can perform the following operations, indicated by the following keys.
 
-System Start: Allow system to operate in running state
+1: Start the system
 
-System Stop: Do not allow system to operate in a running state
+2: Stop the system
 
-Read Course Files: Read course files, and allow yourself to perform operations???
+3: Read course files, and create all necessary objects 
